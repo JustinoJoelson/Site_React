@@ -6,22 +6,22 @@ import { faApple } from '@fortawesome/free-brands-svg-icons'
 import { faMagnifyingGlass, faBriefcase } from '@fortawesome/free-solid-svg-icons'
 
 import iMac from './assets/images/iMac.svg'
-import MacAcessories from './assets/images/macAcessories.svg'
+/*import MacAcessories from './assets/images/macAcessories.svg'
 import MacCompare from './assets/images/macCompare.svg'
-import MacDisplays from './assets/images/macDisplays.svg'
+import MacDisplays from './assets/images/macDisplays.svg'*/
 import Macmini from './assets/images/macMini.svg'
-import MacOs from './assets/images/macOs.svg'
+//import MacOs from './assets/images/macOs.svg'
 import Macpro from './assets/images/macPro.svg'
 import Macsop from './assets/images/macShop.svg'
 import MacStudio from './assets/images/macStudio.svg'
 import MacbookAir from './assets/images/macbookAir.svg'
-import MacboojPro from './assets/images/macbookPro.svg'
+/*import MacboojPro from './assets/images/macbookPro.svg'
 import MacProJpeg from './assets/images/macpro.jpeg'
 import icoMacM1 from './assets/images/icon-mac-m1.png'
 import icoMacm2 from './assets/images/icon-mac-m2.png'
 import ImageBhblr6 from './assets/images/image_bhnlr6.png'
 import macBookImage from './assets/images/macBookImage.png'
-import MacbookJpeg from './assets/images/macbook.jpeg'
+import MacbookJpeg from './assets/images/macbook.jpeg'*/
 
 
 
